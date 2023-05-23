@@ -1,0 +1,17 @@
+{
+    "nom": "samia",
+    "salaire": 120000,
+    "langages": [
+        "java",
+        "python",
+        "javascript"
+    ],
+    "addresse": {
+        "numero_appart": 19,
+        "ville": "montreal",
+        "telephone": {
+            "mobile": "444555666",
+            "fixe": "555666777"
+        }
+    }
+}
